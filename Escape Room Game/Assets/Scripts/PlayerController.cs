@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        speed = 5.0f;
+        speed = 75.0f;
     }
 
     // Update is called once per frame

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Falling_Platform
   - FallingPlatform
+  - SpawnPoint
   layers:
   - Default
   - TransparentFX
